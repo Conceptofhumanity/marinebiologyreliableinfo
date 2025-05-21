@@ -1,11 +1,16 @@
 .paragraph {
-    font: 'Rock 3D', cursive;
+    font: 'Rock 3D';
     font-size: xx-large;
     align-self: flex-end;
     color: lawngreen;
     background-color: fuchsia;
 }
 
+.rock-3d {
+  font-family: "Rock 3D", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
 @font-face {
   font-family: 'Rock 3D';
